@@ -14,7 +14,6 @@ This is a sleek and interactive portfolio website built using **React**, **Tailw
 - Tailwind CSS (Utility-first Styling)
 - Locomotive Scroll (Smooth Scrolling Effects)
 
-- 
 ## ✨ Features
 
 - 🔄 Smooth Scroll animations with Locomotive Scroll
