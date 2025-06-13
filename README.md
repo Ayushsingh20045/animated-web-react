@@ -4,7 +4,7 @@ This is a sleek and interactive portfolio website built using **React**, **Tailw
 
 > 🚧 **Note**: This project is built for learning purposes and currently best viewed on **laptops** only (not yet responsive for mobile screens).
 
-## 🚀 Live Demo: - <h1>Visit:- </h1> <a href="https://animated-web-react.vercel.app/">animated-react-web</a>
+## 🚀 Live Demo: - <a href="https://animated-web-react.vercel.app/">animated-react-web</a>
 
 
 
