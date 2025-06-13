@@ -6,7 +6,7 @@ This is a sleek and interactive portfolio website built using **React**, **Tailw
 
 ## 🚀 Live Demo: - <h1>Visit:- </h1> <a href="https://animated-web-react.vercel.app/">animated-react-web</a>
 
-Click on the **ThirtysixStudio** heading to experience the animation in action.
+
 
 ## 🛠️ Technologies Used
 
