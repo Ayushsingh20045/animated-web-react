@@ -1,6 +1,6 @@
 # ⚡ Smooth Creative Portfolio Website
 
-This is a sleek and interactive portfolio website built using **React**, **Tailwind CSS**, and **Locomotive Scroll**. It features smooth scrolling animations, a modern UI, and a responsive layout structure inspired by popular creative studios.
+This is a sleek and interactive portfolio website built using **React**, **Tailwind CSS**,  **Locomotive Scroll**,and **GSAP**. It features smooth scrolling animations, a modern UI, and a responsive layout structure inspired by popular creative studios.
 
 > 🚧 **Note**: This project is built for learning purposes and currently best viewed on **laptops** only (not yet responsive for mobile screens).
 
